@@ -1,0 +1,7 @@
+# One public ProxyIP candidate source URL per line.
+# Sources are treated as candidate lists only; every candidate must pass local validation.
+https://raw.githubusercontent.com/xgonce/Cloudflare_IP/main/result.csv
+https://ipdb.api.030101.xyz/?type=bestproxy
+
+# Add your own authorized candidate-list URL below.
+# You may also place manually collected IP:PORT entries in config/custom_candidates.txt.
