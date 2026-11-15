@@ -1,0 +1,2 @@
+# Optional manually collected candidates, one IP:PORT per line.
+# Only add systems you own or are authorized to test.
